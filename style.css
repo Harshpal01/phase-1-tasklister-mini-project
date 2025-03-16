@@ -8,6 +8,7 @@ body {
   min-height: 100%;
   min-width: 100%;
   background: linear-gradient(pink, violet);
+  padding: 2px;
 }
 
 button {
